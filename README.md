@@ -12,12 +12,12 @@
 * Luis Gerardo Méndez Villanueva [@GerardoVilla](https://github.com/orlandordzc)
 * Mariana Estafania Gonzalez Canul [@...]()
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ## Planteamiento
 Un gran número de alumnos tienen dificultades al momento de comprar en la cafetería de la facultad de matemáticas, ya sea por la organización de la cafetería, la falta de tiempo e incluso personal propio de la cafetería, o en casos externos, la falta de tiempo por parte del alumnado debido a los horarios de entre clases (terminas una clase a las 11:00 am y a la 11:01 am ya está entrando el siguiente profesor). 
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ## Objetivo
 
 
