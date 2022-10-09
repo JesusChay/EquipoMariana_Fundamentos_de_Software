@@ -1,10 +1,14 @@
 # UADYFood🍔
-[![Rojo-y-Amarillo-Hot-Cake-Restaurantes-Reapertura-Comercial-Cartel-Horizontal.png](https://i.postimg.cc/yYZRTJSg/Rojo-y-Amarillo-Hot-Cake-Restaurantes-Reapertura-Comercial-Cartel-Horizontal.png)](https://postimg.cc/zVq3zG78)
 
-
+<p align="center">
+<img src="https://i.postimg.cc/MZVY2bm1/Rojo-y-Amarillo-Hot-Cake-Restaurantes-Reapertura-Comercial-Cartel-Horizontal.png" height='400' alt="UADYFood"/>
+</p>
 
 ## Equipo
-[![Turquesa-y-Blanco-Inteligente-Corporativo-Medios-y-Publicaciones-Actualizaciones-Semanales-de-Equipo.png](https://i.postimg.cc/P5hmrmSb/Turquesa-y-Blanco-Inteligente-Corporativo-Medios-y-Publicaciones-Actualizaciones-Semanales-de-Equipo.png)](https://postimg.cc/JG6ypBVt)
+<p align="center">
+<img src="https://i.postimg.cc/mkmkf5Xb/Turquesa-y-Blanco-Inteligente-Corporativo-Medios-y-Publicaciones-Actualizaciones-Semanales-de-Equipo.png" height='400' alt="UADYFood"/>
+</p>
+
 * Jesús Adrian Chay Tun [@JesusChay](https://github.com/JesusChay)
 * José Luis Gutierrez Couoh []()
 * Orlando Isaias Rodriguez Couoh [@orlandordzc](https://github.com/orlandordzc)
@@ -19,7 +23,6 @@ Observamos que los estudiantes de la facultad sufren demasiado la espera por sus
 
 ## Objetivo
 Implimentar un sistema que agilice los procesos en la comunicación entre el personal de la cafetería, reduciendo tiempo de producción y tiempo de espera de espera por parte de los alumnado y personal docente.
-## Usuarios 
 ## Primer Sprint
 ## Primera Entrega
 ## Segundo Sprint
