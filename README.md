@@ -1,12 +1,12 @@
 # UADYFood🍔
 
 <p align="center">
-<img src="https://i.postimg.cc/MZVY2bm1/Rojo-y-Amarillo-Hot-Cake-Restaurantes-Reapertura-Comercial-Cartel-Horizontal.png" height='400' alt="UADYFood"/>
+<img src="https://i.postimg.cc/MZVY2bm1/Rojo-y-Amarillo-Hot-Cake-Restaurantes-Reapertura-Comercial-Cartel-Horizontal.png" height='400' weight='800' alt="UADYFood"/>
 </p>
 
 ## Equipo
 <p align="center">
-<img src="https://i.postimg.cc/mkmkf5Xb/Turquesa-y-Blanco-Inteligente-Corporativo-Medios-y-Publicaciones-Actualizaciones-Semanales-de-Equipo.png" height='400' alt="UADYFood"/>
+<img src="https://i.postimg.cc/mkmkf5Xb/Turquesa-y-Blanco-Inteligente-Corporativo-Medios-y-Publicaciones-Actualizaciones-Semanales-de-Equipo.png" height='400' weight='711.111' alt="UADYFood"/>
 </p>
 
 * Jesús Adrian Chay Tun [@JesusChay](https://github.com/JesusChay)
