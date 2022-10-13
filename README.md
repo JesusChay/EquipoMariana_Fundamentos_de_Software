@@ -10,7 +10,7 @@
 </p>
 
 * Jesús Adrian Chay Tun [@JesusChay](https://github.com/JesusChay)
-* José Luis Gutierrez Couoh []()
+* José Luis Gutierrez Couoh [@Josegutierrezcouoh](https://github.com/Josegutierrezcouoh)
 * Orlando Isaias Rodriguez Couoh [@orlandordzc](https://github.com/orlandordzc)
 * Luis Gerardo Méndez Villanueva [@GerardoVilla](https://github.com/GerardoVillla)
 * Mariana Estafania Gonzalez Canul [@mglezcc](https://github.com/mglezcc/mglezcc)
